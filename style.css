@@ -46,6 +46,7 @@ hr {
 
 /* Add your solution below */
 
+
 .image-circle {border-radius: 50%; border:2px solid #003049; 
 }
 a:link {color: #d62828;}
@@ -61,3 +62,8 @@ header h1 {
 }
 footer {text-align: center;}
 header{text-align: center;}
+div.parent {text-align: center;}
+ul { 
+	display: inline-block; 
+	text-align: left; 
+	}
